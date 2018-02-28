@@ -22,7 +22,7 @@ class ColorizationActivity : AppCompatActivity() {
 
     private var IMAGE_PATH: String? = null
     private var OUTPUT_IMAGE : String = ""
-//
+//testbranch
 
 
 
